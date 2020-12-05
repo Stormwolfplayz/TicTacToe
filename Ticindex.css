@@ -22,3 +22,8 @@
 .topR{
   margin-top: 50%;
 }
+button{
+  outline: none;
+  color: red;
+  font-size: 50px;
+}
