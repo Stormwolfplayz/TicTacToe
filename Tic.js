@@ -1,3 +1,4 @@
+window.onload=function() {
 var btns = [];
 var lol = "test";
 var turn = "X"
@@ -45,7 +46,7 @@ function test(){
     else if (t[7] != "0" && allEqual([t[7], t[8], t[9]]) == true) {
     console.log(t[7] + " is the winner!")
     }
-    
+}
     
     
     
